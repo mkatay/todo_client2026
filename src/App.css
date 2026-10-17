@@ -1,0 +1,17 @@
+.counter{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap:1rem;
+  border:1px solid gray;
+  max-width: 300px;
+  margin: auto;
+  padding: 1rem;
+}
+.nr{
+  border:1px solid blue;
+  padding: 1rem;
+  text-align: center;
+  font-size: 2rem;
+  width:100px;
+}
